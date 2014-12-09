@@ -1,0 +1,18 @@
+TP JQuery
+============
+
+Attention : Ne pas modifier le HTML.
+
+0 - Ajouter la librairie Jquery, et un fichier de travail app.js
+
+1 - Afficher les ingrédients de la pizza au survol de leurs nom 
+
+2 - Afficher visuellement le nombre de parts et le nombre de pizzas approprié en dessous du champs « Nombre de parts »
+
+3 - Afficher le formulaire de saise d'adresse au clic sur le bouton "Etape suivante". Masquer ce même bouton
+
+4 - Ajouter un ligne de champ d'adresse lorsque l'on clique sur le bouton "Ajouter un autre ligne d'adresse"
+
+5 - Au clic sur le bouton de validation, supprimer tous les éléments de la page, et afficher un message de remerciement.
+
+6 - Actualiser le prix en fonction des éléments choisis grâce à l'attribut data-price
